@@ -4,9 +4,7 @@
   
 
 ### <div align="center">I'm Diego, a full-time full-stack developer 👨‍💻 working at the AIR Institue🚀</div>  
-  
-
-- 🔭 I’m currently working on my final thesis GenQL  
+ 
   
 
 <br/>  
