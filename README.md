@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Diego, a full-time full-stack developer 👨‍💻 working at the BISITE Research Group🚀</div>  
+### <div align="center">I'm Diego, a full-time full-stack developer 👨‍💻 working at Institutional Investment Group🚀</div>  
  
   
 
